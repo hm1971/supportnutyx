@@ -1,0 +1,91 @@
+  erreurs a corriger sur le site web
+
+PAGE ACCEUIL
+ colonne de gauche généralités
+
+PAGE INFORMATION
+ merci a toutes les personnes....
+peter....développement
+sh4dow......dans les autres collections
+meme page sous les paquets de logiciles : les codes sources du-dit ...
+
+FAQ
+ds l installateur installe nutyx....des fichiers trés gourmands
+
+DOCUMENTATION
+mise en place serveur NFS
+titre :sur un client ligne dessus ecrire test (sans s )
+ligne dessous ecrire on teste le dossier
+
+rubrique :  pourquoi vouloir contribuer premier paragraphe "toutes plateformes confondues"
+voir 4) extraire
+2 eme paragraphe ligne c est une facon de faire ....pas sans inconvénients
+ fin de page : nutyx dispose d outils tres facilesqui faciliteront
+
+rubrique connaissances requises:
+utilisation d une variable : voir le signe $ dollar
+
+avant titre declaration d un tableau  je n en vois pas l utilité
+
+rubrique declaration d un parefeu:
+sous titre les régles:premiere ligne la politique ... d une chaine
+
+sous titre mise en route
+ils correspondent aux différents....
+plus loin on veut donc ... aprés le réseau
+bas de page si vous êtés derriere une box
+
+compiler son propre noyau sous titre extraire les sources :
+on extrait les sources du noyau téléchargé
+configurer les options de compilation voir ligne précédente : d'options nécéssaires
+
+sous la capture d écran changer :optenir et mentionés
+
+rubrique installation mode uefi
+titre a changer : démarrer le cd/la clé sur le (la)quel(le)...
+
+rubrique manuel de nutyx
+rectifier le verbe definir qd sujet il ou elle ecrire : définit
+sous titre réseau entre les 2 paragraphes gris nécéssaire
+et rectifier les adtresses(adresses)
+sous titre ajout d une partition:
+phrase sous cadre mount -a : manque quelque chose (vous pouvez vérifier que le résultat en ...
+
+sous titre l horloge 
+fin de paragraphe rectifier si l heure correspond a ce ...
+
+ds nom de la machine:le fichier définit...quel service...
+
+rubrique amorcage de la machine:
+si l amorce de grub ...pas encore installée
+
+rubrique en cas de problems:précieuses informations
+
+rubrique gestion des locales:
+2 eme ligne événement
+plus loin le mếme événement
+sous cadre gris changer exception puis ....autrement-dit...sera installé
+
+rubrique gestion des ports
+la gestion des paquets se faire
+...d une paire
+PKGMK.WORK...changer dosssier
+
+PKG...GROUPS...définit quel(s) .....
+
+sous titre services
+liste de paquets de services disponible
+
+rubrique : qu est qu un port ,une recette:
+toutes les dépendances nécéssaires puis plus loin les dépendances nécéssaires
+
+manuel de nutyx
+sous titre avant cadre gris mettre le fichier de configuration
+avant le titre gestion des paquets binaires mettre ds cette liste de paquets vérrouillée
+
+sous titre ds configuration de pkgadd
+le fichier ... changer événement
+et ...les régles de  d'installation
+
+
+
