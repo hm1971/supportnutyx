@@ -87,5 +87,53 @@ sous titre ds configuration de pkgadd
 le fichier ... changer événement
 et ...les régles de  d'installation
 
+Rubrique : comment construire un paquet
+construire votre premier paquet voir vous aurez
+éditeur de texte nécéssitant aucune dépendance
+puis aprés cadre gris contenant cards base -r :quelles locales ....plus d informations
+a la fin nous voila prêts
+
+rubrique compilation ds une chroot
+ajouter  /etc/....voir vous y ajoutez
+sous le grand cadre gris :variables nécéssaires
+ds compilation et installation de votre paquet voir "on créer"
+
+rubrique mise en place d un serveur de compilation:
+mise en pace development ou developpement?
+le dossier git utilisateur a créer...tous les dossiers nécéssaires
+on peut maintenant créer le dossier nécé....
+voir en l occurence
+
+rubrique : construire sa nutyx
+ds préparation de la partition :donc si vous décider .....ensuite la monter..?
+
+etape construction de la chroot:si vous avez choisi...
+la chroot dans un dossier...ajout des liens nécéssaires
+
+rubrique construction de la nutyx passe 2
+indispensable d être vigilant..les actions ..que vous avez défini
+ds 8) on installe les ....configurations
+ds 12) le résultat affichera
+
+ds explication relative a chaque action:
+ds 4) on créer(a changer)
+6) à créer
+10) dossiers indispensables
+15)dans le bon ordre
+22)bon ordre
+
+rubrique post construction
+6) éditeur de texte et utilité
+ds compilation du kernel et des ports optionnels:
+d'un des kernels disponibles
+compilation deson propre kernel : nombreux
+3) mise en place de grub:ds ajout des outils de formatage:les possibilités
+
+ds produire une iso installable 
+voir 2) ...existants
+option 2 réduire la taille fnale de l 'iso 
+
+
+
 
 
