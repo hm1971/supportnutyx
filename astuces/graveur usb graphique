@@ -1,0 +1,9 @@
+ 
+pour ceux qui veulent grver une clé usb avec interface graphique sur nutyx voici un petit truc rapide:
+aller sur le site de parrot sec os ,puis download
+en bas de la page choisir ds iso usb writer ,choisir ce qui vous convient (32/64...)
+puis vous placer ds le dossier ou a été téléchargé "rosa", en root faire chmod +x rosa......;
+puis ./rosa.....
+le grzaveur démarre
+renommer votre fichier rosa .....exec en rosa
+puis a chaque fois que vous avez besoin ouvrez la console ds le dossier ou se trouve le fichier rosa... en root tapez ./ro + tab+ entrée et ca démarre
