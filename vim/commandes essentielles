@@ -1,0 +1,26 @@
+commandes principales de vim
+a: mode saisie
+
+escape: sortir du mode + mode commande
+
+v: mode visual pour copie
+
+x: sortir et enregistrer
+
+w: enregisstrer sans quitter
+
+q: quitter q! :quitte sans enregistrer
+
+dd :  supprime une ligne
+
+faire un copier/coller= mode visual ,selection,y,emplacement,p
+
+echap puis /mot recherché
+
+u: annule une modif
+4u : annule les 4 dernieres modifs
+
+sp: découpe l écran horizontalement
+sp autrefichier = 2 écrans avec 2 fichiers différents
+vsp: découpe verticale
+ctrl + w : aller d un viewport a un autre 
