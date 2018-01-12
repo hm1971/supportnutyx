@@ -1,0 +1,468 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: NuTyX Configuration tool\n"
+"PO-Revision-Date: 2014-08-07+2000\n"
+"Last-Translator: tnut <tnut at NuTyX dot org>\n"
+"Language-Team: French\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+merci de traduire en face de la ligne msgtr dans la langue
+demandée
+msgid "Settings"
+msgstr " 设置 "
+msgid "Keyboard Layout"
+msgstr " 键盘布局 "
+msgid "Choose available"
+msgstr " 选择配置 "
+msgid "ERROR configuration"
+msgstr " 系统错误 "
+msgid "Please try again"
+msgstr " 请重试 "
+msgid "Network card"
+msgstr " 网卡 "
+msgid "Select the card"
+msgstr " 请选择网
+⽹⽹ "
+msgid "Card to configure"
+msgstr " 配置网卡
+⽹⽹ ⽹ "
+msgid "Configuration of"
+msgstr " 配置 "
+msgid "Configuration mode"。
+msgstr " 配置方式
+⽹⽹ ⽹ "
+msgid "Auto"
+
+msgstr " 自动 "
+msgid "IP address automatically set from DHCP server"
+msgstr "IP 地址 自 DHCP 服务器器自动获取
+⽹⽹ ⽹ ⽹ ⽹ "
+msgid "Man"
+msgstr " 城域网
+⽹⽹"
+msgid "Manually specify parameters"
+msgstr " 手动参数特殊化 "
+msgid "Enter an IP address"
+msgstr " 输 IP 地址 "
+msgid "Enter a broadcast address"
+msgstr " 输入播散地
+⽹⽹ ⽹ ⽹ ⽹"
+msgid "in most cases the current value can be used"
+msgstr " 当前值大多数情况下可
+⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ "
+msgid "Enter the subnet mask"
+msgstr " 输入子网
+⽹⽹ ⽹⽹ ⽹⽹
+"
+msgid "Enter the gateway address"。
+msgstr " 输入网关地
+⽹⽹ ⽹⽹ ⽹ ⽹
+"
+msgid "it is normally the address of your router access
+point"
+msgstr " 路路由器器接入点正
+⽹⽹ ⽹ ⽹ "
+msgid "Enter the DNS address"。
+msgstr " 输 DNS 地址 "
+msgid "DNS Search Suffix"
+msgstr "Suffix 搜索 DNS"
+msgid "Enter the domain name"
+msgstr " 输入域名
+⽹⽹ ⽹ ⽹ "
+msgid "this is only need if you are in a subdomain"
+
+msgstr " 此设置只在您处于下属域名时需要 "
+msgid "Most of the time it's not need"
+msgstr " 太多数情 况下不不需要 "
+
+msgid "Start the service"
+msgstr " 开启服务 "
+msgid "Checking the configuration, returning true or false"
+msgstr " 确认所有配置，回复 是 或 否 "
+msgid "Show the network configuration"
+msgstr " 显示网络配
+⽹⽹ ⽹ ⽹"
+msgid "Show the keyboard configuration"
+msgstr " 显示键盘配置 "
+msgid "Show the date and time settings"
+msgstr " 显示日期与时间设
+⽹置
+置
+
+"
+
+msgid "Show the timezone and time adjustment"
+msgstr " 显示当地时间设置 "
+msgid "Show all configurations"
+msgstr " 显示所有设置 "
+msgid "Configure the language"
+msgstr " 语言设置
+⽹⽹ ⽹ ⽹ "
+msgid "Configure the keyboard"
+msgstr " 键盘设置 "
+msgid "Configure the network"
+msgstr " 网络设置 "
+msgid "Date and time settings"
+msgstr " 日期与时间设置 "
+
+msgid "Add a user to the system"
+msgstr " 添加系统用
+⽹⽹"
+msgid "Configure the system"
+msgstr " 系统配置 "
+msgid "Install NuTyX"
+msgstr " 安装 NuTyX"
+msgid "Use the arrows keys to change the values"
+Msgstr " 请使用方
+⽹向⽹键 以改变输入值⽹⽹ ⽹ "
+
+msgid "Coordinated Universal Time or Local Time ?"
+msgstr " 设置世界时 还是地方时
+⽹⽹ ⽹ ?"
+
+msgid "The hardware clock is set to"
+msgstr " 时钟设置 "
+
+…
+
+msgid "Do you want to use this time as Coordinated Universal
+Time ?"
+msgstr " 您希望以此时间协调世界时吗？ "
+msgid "so that the summer/winter time is changed
+automatically"
+msgstr " 以便便 冬 / 夏令时自动切换
+⽹⽹ ⽹ ⽹ ⽹ "
+
+msgid "Please enter the date"
+msgstr " 请输入日
+⽹⽹ ⽹⽹
+"
+msgid "Please enter the time"
+msgstr " 请输入时
+⽹⽹ ⽹ "
+msgid "Configuration of the boot of the computer"
+msgstr " 设置机器器启动 "
+msgid "Select the disk on which you want to modify the MBR"
+msgstr " 选择您希望用以变更
+⽹⽹ ⽹ ⽹ ⽹ MBR 的磁盘 "
+
+msgid "Select the partition on which you want to place the
+GRUB files"
+msgstr " 筛选您希望放置 GRUB 文件的分区 "
+msgid "Note that the destination partition can contain NuTyX
+or any other distribution"
+msgstr " 目的地分区可包括 Nutyx 或其他任何 "
+
+msgid "No boot process configured"
+msgstr " 未配置任何启动装置 "
+msgid "You have installed NuTyX without configuring the boot
+process"
+msgstr " 您已在未配置启动装置的情况下安装 NuTyx"
+msgid "Are you sure, you want to cancel the process ?"
+msgstr " 确定取消操作？ "
+
+msgid "You already have a copy of the original MBR, I will
+not make a backup of it"
+msgstr " 您已复制一
+⽹⽹MBR 原件，原件不不会备份 "
+msgid "A copy of the original MBR is saved in the folder /
+boot/grub of your NuTyX. It will then be possible to restore
+it if need"
+msgstr " 复制文件已
+⽹⽹ ⽹ ⽹ NuTyx 文件 / 系统中备份，必要时可再次安装 "
+
+msgid "Everything OK, do you want to modify"
+msgstr " 一切顺 ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ "
+
+msgid "Something went wrong probably the file system is not
+supported"
+
+msgstr " 出现故障，不不支持的文件系
+⽹⽹ ⽹ ⽹ ⽹⽹ ⽹ ⽹
+"
+msgid "A new"
+msgstr " 一个新的 "
+msgid "has been created"
+msgstr " 创设成功 "
+msgid "it has been adapted to launch the Maintenance system
+of NuTyX"
+msgstr " 已适应以启动 NuTyx 的维护系统 maintenance"
+msgid "if you choose"
+msgstr " 您是否选择 "
+msgid "an simplify VI editor will allow you to modify it"
+msgstr " 一简化的编辑程序允许对其进行行更更
+⽹⽹ ⽹ ⽹ ⽹"
+msgid "Enter the edit mode"
+msgstr " 进入编辑模
+⽹⽹ ⽹ ⽹ ⽹"
+msgid "Exit the edit mode"
+msgstr " 退出编辑模式 "
+msgid "Cancel the modifications and exit VI"
+msgstr " 取消更更改并推出 VI"
+
+msgid "Save and exit VI"
+msgstr " 保存并退出 VI"
+msgid "Good to know"
+msgstr " 须知 "
+msgid "Main Menu"
+msgstr " 主菜单 "
+msgid "Welcome to the NuTyX installer"
+msgstr " 欢迎安装 NuTyx"
+
+msgid "Create all your partitions"
+msgstr " 创立所有分
+⽹⽹ ⽹ ⽹ ⽹"
+msgid "Format a partition"
+msgstr " 格式化一个分区
+⽹⽹ ⽹ ⽹ ⽹"
+msgid "Configure the boot of the PC"
+msgstr " 配置电脑启动装置 "
+msgid "Reboot the PC"
+msgstr " 启动个人电
+⽹⽹ ⽹"
+msgid "Press OK to reboot the computer"
+msgstr " 点击以启动电脑 "
+msgid "optional"
+msgstr " 自由选择 "
+msgid "Install"
+msgstr " 安装 "
+msgid "Partitioning"
+msgstr " 分区 "
+msgid "Format"
+msgstr " 格式化 "
+msgid "Boot"
+msgstr " 启动 "
+msgid "Keyboard"
+msgstr " 键盘 "
+msgid "Network"
+msgstr " 网络 "
+msgid "Clock"
+msgstr " 时钟 "
+msgid "Restart"
+msgstr " 重启 "
+msgid "Yes"
+
+msgstr " 是 "
+msgid "Choose the disk you want to use for this operation"
+msgstr " 选择您希望执行行此操作的硬
+⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹"
+msgid "Choose the partition you want to use for this
+operation"
+msgstr " 选择您希望执行行此操作的分
+⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹"
+msgid "Available file systems"
+msgstr " 可用文件系
+⽹⽹ ⽹⽹ ⽹ ⽹
+"
+msgid "Choose the file system you want to use for the
+partition"
+msgstr " 选择您希望执行行此操作的文件系统
+⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹⽹ ⽹ ⽹ ⽹
+"
+msgid "High performance journaling file system create by SGI"
+msgstr " 由 SGI 创建的高级文件系
+⽹⽹ ⽹ ⽹⽹ ⽹ ⽹
+"
+msgid "Journaling file system create by IBM"
+msgstr " 由 IBM 创建的日记化文件系
+⽹⽹ ⽹ ⽹ ⽹⽹ ⽹ ⽹
+"
+msgid "Very stable file system but not maintain anymore"
+msgstr " 稳定但不不再保持的文件系
+⽹⽹ ⽹ ⽹"
+msgid "Next generation of Ext3 file system"
+msgstr " ⽹ ⽹⽹Ext3 文件系统 "
+
+msgid "Journaling version of Ext2 file system"
+msgstr " 日记化版本 Ext2 文件系统 "
+
+msgid "Standard file system Ext2"
+msgstr " 标准 Ext2 文件系统 "
+msgid "New promising file system"
+
+msgstr " 新兴文统件
+⽹⽹ ⽹ ⽹"
+
+msgid "Launch the format process ?"
+msgstr " 启动格式化程序 ?"
+msgid "The partition"
+msgstr " 分区 "
+msgid "will be formatted in"
+msgstr " 将在…格式化 "
+msgid "Are you sure you want to continue ?"
+msgstr " 确认继续？ "
+msgid "No disk available"
+msgstr " 无可用磁
+⽹⽹ ⽹ "
+msgid "Please stop the PC and install a harddisk"
+msgstr " 请关闭电脑并安装硬盘 "
+
+msgid "No partition available"
+msgstr " 无可用分
+⽹⽹ ⽹ "
+msgid "Please create/modify yours partitions"
+msgstr " 请创立
+⽹⽹/ 变更更分区 "
+msgid "Choose your favorite tool"
+msgstr " 选择您喜欢的工具
+⽹⽹ ⽹"
+msgid "Basic partitioning tool"
+msgstr " 基础分区工
+⽹⽹"
+msgid "Advanced partitioning tool"
+msgstr " 高级分区工具
+⽹⽹ ⽹ "
+msgid "Partitioning of the disk"
+msgstr " 磁盘分区 "
+msgid "Open a console"
+msgstr " 打开一个操纵台
+⽹⽹ ⽹ ⽹ ⽹ ⽹"
+
+msgid "Please wait"
+msgstr " 请耐心等
+⽹⽹ ⽹ "
+msgid "This is a very basic tool, do not expect too much"
+msgstr " 基础工具请不不要期待过高
+⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹⽹
+"
+msgid "It will ask you on which partition you want to install
+NuTyX"
+msgstr " 它将会问您希望在哪一分区安
+⽹⽹ ⽹ ⽹ ⽹NuTyX"
+msgid "If not yet created/formatted, it will prompt you to do
+so"
+msgstr " ⽹ ⽹ ⽹ ⽹ ⽹l/ 格式化，它将会要求您进行行操
+⽹⽹ ⽹ ⽹"
+msgid "No future plan to make this installer more
+sophisticated"
+msgstr " 无可用更更新使设备更更为精
+⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ "
+msgid "NuTyX goes on"
+msgstr "NuTyx 安装在 "
+msgid "only ONE partition"
+msgstr " 只有一个分
+⽹⽹ ⽹ ⽹"
+msgid "ONE exception, GRUB can be part of it, installed on a
+separate partition or not installed at all"
+msgstr " 一个例例外 GRUB 可以作为 NuTyX 的一部分安装在一个独也可不不安装
+⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹ ⽹⽹ ⽹ ⽹ ⽹⽹ ⽹ ⽹ ⽹ ⽹"⽹
+
+msgid "As NuTyX users, we recommand you to install GRUB on a
+separate partition"
+msgstr " 作为 NutYX 用户，我们要求您在一个独立分区内安
+⽹⽹ ⽹ ⽹ ⽹⽹ ⽹ ⽹ ⽹ ⽹
+"
+
+msgid "To do so"
+msgstr " 请这样做 "
+
+msgid "Install GRUB first, then NuTyX"
+msgstr " 请先安装 GRUB 再安装 NuTyX"
+msgid "Have fun"
+msgstr " 祝您使用愉
+⽹⽹ ⽹"
+msgid "Thank you for installing NuTyX"
+msgstr " 感谢您安装 NuTyX"
+msgid "Help"
+msgstr " 帮助 "
+msgid "How to do it"
+msgstr " 怎样做 "
+msgid "The name you enter is invalid"
+msgstr " 此名无效
+⽹⽹ ⽹ "
+msgid "The name you enter is already register on the system"
+msgstr " 您输入的用户名已存
+⽹⽹ ⽹ ⽹⽹ ⽹ ⽹ ⽹ ⽹
+"
+msgid "The description you enter is invalid"
+msgstr " 您输 入的描述无效
+⽹⽹ ⽹"
+
+msgid "Name of the user"
+msgstr " 用户名 "
+msgid "Add a description for the user"
+msgstr " 添加用户述
+⽹⽹ ⽹ ⽹
+
+"
+
+msgid "Name or Description of the user"
+msgstr " 用户名或用户描
+⽹⽹ ⽹ ⽹"
+msgid "Password"
+msgstr " 密码 "
+msgid "Enter a new password"
+msgstr " 请设置新密码 "
+
+msgid "Confirm the new password"
+msgstr " 请确认新密码 "
+msgid "Passwords are differents, please try again"
+msgstr " 密码输入不不一致，请重试
+⽹⽹ ⽹ ⽹ ⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹
+"
+msgid "Do you want to try again"
+msgstr " 您想重试吗 "
+msgid "Please run this command as root"
+msgstr " 启动此装置作为根系 "
+
+msgid "Sync the HD"
+msgstr " 同步硬盘 "
+msgid "Emptying memory"
+msgstr " ⽹ ⽹ ⽹ ⽹ ⽹ ⽹ "
+msgid "Swap partition not found"
+msgstr " 未找到交换分区 "
+msgid "recommended"
+msgstr " 推荐 "
+msgid "skilled"
+msgstr " 专家系统 "
+msgid "Configure the wireless access point"
+msgstr " 配置无线网
+⽹⽹ ⽹ ⽹⽹
+""
+msgid "Configuration of a wireless access point for"
+msgstr " 为…配置的无
+⽹⽹ 线网点
+⽹⽹ ⽹
+
+"
+
+msgid "Choose the name of the wireless access point" 选择无线网
+⽹⽹ ⽹ ⽹⽹
+络名称
+msgstr " 选择无线络名称
+⽹⽹ ⽹ ⽹ ⽹ ⽹"
+msgid "Enter the password of"
+msgstr " 输…的密码 "
+
+msgid "File"
+msgstr "Fichier" ⽹文件
+msgid "successfully created"
+msgstr "créé avec succès" 设置成功
+msgid "Cannot create"
+msgstr "Impossible de créer" 不不能创建
+msgid "Erase"
+msgstr "Effacer" 删除
+msgid "Configure automatic update"
+msgstr "Configurer les mise à jour automatiques" ⽹自动更更新系统
+msgid "Would you like to enable automatic update"
+msgstr "Souhaitez-vous activer les mise à jour automatiques"
+启用自动更更新？
+⽹⽹ ⽹⽹ ⽹ ⽹ ⽹ ⽹ ⽹
+
+msgid "Make shure you reserve the first partition for ESP"
+msgstr " 请确认您为 ESP 保存了了第一个分
+⽹⽹ ⽹ ⽹"
+msgid "At partitioning, declare the first partition as EFI
+System"
+msgstr " 分区时，请将第一个分区设
+⽹⽹ ⽹ ⽹ ⽹ ⽹ EFI 系统 "
+msgid "EFI partition not found"
+msgstr "EFI 区没有找到分 "
+msgid "GPT partition table not found"
+msgstr "GPT 分区没有找到 "
+msgid "This installation won't boot again ..."
+msgstr " 此装置将不不会再次启动 "
+
+
